@@ -1,0 +1,58 @@
+h1{
+    display: inline;
+    position: absolute;
+    font-weight: bold;
+    top: 0px;
+    font-size: 40px
+}
+header{
+    display: flex;
+
+}
+.imagen1{
+    background-size: 100%; 
+    width: 104%;
+    height: 450px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    bottom: 100px;
+}
+.texto-color{
+    position: relative;
+    bottom: 0px;
+    margin: 0px;
+    background: black;
+    color: white;
+    text-align: center;
+}
+aside{
+    float: left;
+}
+nav{
+    float: left;
+    font-size: 20px;
+    margin-left: 10px;
+    width: 10%;
+    text-align: left;
+    margin-top: 40px;
+}
+.logo1{
+    position: relative;
+    right: 80px;
+    bottom: 70px;
+    float: right;
+    background-size: 100%;
+    width: 100px;
+    height: 100px;    
+}
+article{
+    float: right;
+    margin: 0 1.5%;
+    width: 65%;
+    text-align: left;
+    margin-bottom: 10px;
+}
+.p-texto2{
+    position: relative;
+    top: 10px;
+}

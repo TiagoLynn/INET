@@ -1,0 +1,33 @@
+h2,header{
+    text-align: center;
+}
+.cuadrado{
+    list-style-type: square;
+}
+.letras{
+    list-style-type: lower-alpha;
+}
+table {
+    border-collapse: separate;
+    border-spacing: 60px 15px;
+}
+.tabla{
+    position: relative;
+    left: 450px;
+}
+th{
+    text-align: left;
+}
+td:first-child{
+    text-align: center;
+}
+.ejemplo{
+    display: inline-block;
+}
+.email{
+    display: inline-block;
+    margin-left: 200px;
+}
+.subrayado1{
+    text-decoration: underline;
+}
